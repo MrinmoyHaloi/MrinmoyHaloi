@@ -10,6 +10,7 @@ I'm Mrinmoy Haloi, a Front End developer from India with a passion of making gre
 
 <!-- html, css, scss, js, svelte, bootstrap, python, c++, vite, git, vscode, github, vercel, npm, prettier -->
 
+<p>
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -25,6 +26,7 @@ I'm Mrinmoy Haloi, a Front End developer from India with a passion of making gre
 <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
 <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
+</p>
 
 ## My Stats
 

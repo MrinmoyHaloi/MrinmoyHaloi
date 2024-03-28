@@ -30,15 +30,12 @@ I'm Mrinmoy Haloi, a Front End developer from India with a passion of making gre
 
 ## My Stats
 
-### GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=MrinmoyHaloi&show_icons=true&theme=radical&rank_icon=github" alt="Mrinmoy's GitHub stats" />
+| <img src="https://github-readme-stats.vercel.app/api?username=MrinmoyHaloi&show_icons=true&theme=radical&rank_icon=github" alt="Mrinmoy's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmoyHaloi&layout=donut&theme=radical" alt="Top Langs" /> |
+|--|--|
 
-### Language Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmoyHaloi&layout=donut-vertical&theme=radical" alt="Top Langs" />
-
-### Streak
-
+<p align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrinmoyHaloi&theme=radical" alt="GitHub Streak" />
+</p>
 
 ## Socials
 

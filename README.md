@@ -37,6 +37,10 @@ I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creatin
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrinmoyHaloi&theme=radical" alt="GitHub Streak" />
 </p>
 
+## Pins
+|[![Swirl Lang](https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl&theme=radical&show_owner=true)](https://github.com/swirllang/swirl)|[![Swirl Website](https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl-website&theme=radical&show_owner=true)](https://github.com/swirllang/swirl-website)|
+|-|-|
+
 ## Socials
 
 -   [Website](https://mrinmoy.is-a.dev)

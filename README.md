@@ -44,7 +44,7 @@ I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creatin
 ## Socials
 
 -   [Website](https://mrinmoy.is-a.dev)
--   [Twitter](https://twitter.com/MrinmoyHaloi)
+-   [Twitter](https://twitter.com/_mrinmoy_haloi_)
 -   [LinkedIn](https://www.linkedin.com/in/mrinmoy-haloi-9b8053290/)
 -   Discord - mrinmoy.haloi
 

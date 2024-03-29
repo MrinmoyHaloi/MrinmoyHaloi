@@ -2,7 +2,7 @@
 
 ---
 
-# Hi there ![pikachu](https://cdn.discordapp.com/emojis/765793273234063361.gif?size=64&quality=lossless)
+# Hi there ![pikachu wink](https://cdn.discordapp.com/emojis/765793273234063361.gif?size=44&quality=lossless)
 
 I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creating user-friendly interfaces with **Svelte**, bringing designs to life with precision and efficiency. My passion for computers extends to my proficiency in **Linux**, where I navigate and operate with ease. 
 

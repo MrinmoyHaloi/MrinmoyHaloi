@@ -2,12 +2,9 @@
 
 ---
 
-# Hi there ![](https://cdn.discordapp.com/emojis/765793273234063361.gif?size=64&quality=lossless)
+# Hi there ![pikachu](https://cdn.discordapp.com/emojis/765793273234063361.gif?size=64&quality=lossless)
 
 I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creating user-friendly interfaces with **Svelte**, bringing designs to life with precision and efficiency. My passion for computers extends to my proficiency in **Linux**, where I navigate and operate with ease. 
-
-Always learning, always innovating.
-
 
 ## Technologies I use
 
@@ -49,4 +46,4 @@ Always learning, always innovating.
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="GitHub Readme Quotes" />
+> The best thing about a boolean is even if you are wrong, you are only off by a bit

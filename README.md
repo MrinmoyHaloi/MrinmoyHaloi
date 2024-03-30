@@ -28,7 +28,7 @@ I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creatin
 <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
 </p>
 
-## My Stats
+## Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=MrinmoyHaloi&show_icons=true&theme=radical&rank_icon=github" alt="Mrinmoy's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmoyHaloi&layout=donut&theme=radical" alt="Top Langs" /> |
 |--|--|

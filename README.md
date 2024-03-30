@@ -28,15 +28,20 @@ I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creatin
 <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
 </p>
 
+
 ## Stats
 
-<img width=450px src="https://github-readme-stats.vercel.app/api?username=MrinmoyHaloi&show_icons=true&theme=radical&rank_icon=github" alt="Mrinmoy's GitHub stats" /> <img width=450px src="https://github-readme-streak-stats.herokuapp.com/?user=MrinmoyHaloi&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrinmoyHaloi&show_icons=true&theme=radical&rank_icon=github" alt="Mrinmoy's GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrinmoyHaloi&theme=radical" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmoyHaloi&layout=compact&theme=radical" alt="Top Langs" />
 
+
 ## Pins
-[![Swirl Lang](https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl&theme=radical&show_owner=true)](https://github.com/swirllang/swirl) 
-[![Swirl Website](https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl-website&theme=radical&show_owner=true)](https://github.com/swirllang/swirl-website)
+
+<a href="https://github.com/swirllang/swirl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl&theme=radical&show_owner=true"></a>
+<a href="https://github.com/swirllang/swirl-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl-website&theme=radical&show_owner=true"></a>
 
 ## Socials
 

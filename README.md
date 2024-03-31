@@ -6,7 +6,7 @@
 
 I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creating user-friendly interfaces with **Svelte**, bringing designs to life with precision and efficiency. My passion for computers extends to an extent where I can zip through **Linux** like a penguin on a waterslide! 🐧💻
 
-## Technologies I use
+# Technologies I use
 
 <!-- html, css, scss, js, svelte, bootstrap, python, c++, vite, git, vscode, github, vercel, npm, prettier -->
 
@@ -29,7 +29,7 @@ I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creatin
 </p>
 
 
-## Stats
+# Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrinmoyHaloi&show_icons=true&theme=radical&rank_icon=github" alt="Mrinmoy's GitHub stats" />
 
@@ -38,12 +38,12 @@ I'm **Mrinmoy Haloi**, a Front End Developer from India. I specialize in creatin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmoyHaloi&layout=compact&theme=radical" alt="Top Langs" />
 
 
-## Pins
+# Pins
 
 <a href="https://github.com/swirllang/swirl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl&theme=radical&show_owner=true"></a>
 <a href="https://github.com/swirllang/swirl-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl-website&theme=radical&show_owner=true"></a>
 
-## Socials
+# Socials
 
 -   [Website](https://mrinmoy.is-a.dev)
 -   [Twitter](https://twitter.com/_mrinmoy_haloi_)

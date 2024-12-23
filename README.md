@@ -2,7 +2,7 @@
 
 ---
 
-# Hi there 
+# Hi there ![honk](https://cdn.discordapp.com/emojis/1246535407710240778.webp?size=44)
 
 I'm Mrinmoy Haloi, a Front End Developer from Assam, India.
 

@@ -52,7 +52,7 @@ And also `I use Fedora BTW`
 
 -   [Website](https://mrinmoy.is-a.dev)
 -   [Twitter](https://twitter.com/_mrinmoy_haloi_)
--   [LinkedIn](https://www.linkedin.com/in/mrinmoy-haloi-9b8053290/)
+-   [LinkedIn](https://www.linkedin.com/in/mrinmoy-haloi/)
 -   Discord - mrinmoy.haloi
 
 ---

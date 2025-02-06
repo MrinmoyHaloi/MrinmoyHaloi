@@ -20,7 +20,8 @@ And also `I use Fedora BTW`
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS" />
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
-<img src="https://img.shields.io/badge/-Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/-Bun-fbf0df?style=flat-square&logo=bun&logoColor=black" alt="bun" />
 <img src="https://img.shields.io/badge/-Bootstrap-712cf9?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />

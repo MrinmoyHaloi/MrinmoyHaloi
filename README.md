@@ -47,7 +47,7 @@ And also `I use Fedora BTW`
 # Pins
 
 <a href="https://github.com/swirllang/swirl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl&theme=radical&show_owner=true"></a>
-<a href="https://github.com/swirllang/swirl-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=swirl-website&theme=radical&show_owner=true"></a>
+<a href="https://github.com/swirllang/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swirllang&repo=website&theme=radical&show_owner=true"></a>
 
 # Socials
 

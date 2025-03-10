@@ -8,7 +8,7 @@ I'm Mrinmoy Haloi, a Front End Developer from Assam, India.
 
 I specialize in creating user-friendly and performant interfaces with Svelte.
 
-And also `I use Fedora BTW`
+And `I use Fedora BTW`
 
 # Technologies I use
 

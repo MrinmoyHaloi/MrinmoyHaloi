@@ -32,11 +32,7 @@ And `I use Fedora BTW`
 
 # Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrinmoyHaloi&show_icons=true&theme=radical&rank_icon=github" alt="Mrinmoy's GitHub stats" />
-
-<img src="https://github-readme-streak-stats-psi-ten.vercel.app/?user=MrinmoyHaloi&theme=radical" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmoyHaloi&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrinmoyHaloi&show_icons=true&theme=radical&rank_icon=github" alt="Mrinmoy's GitHub stats" /> <img src="https://github-readme-streak-stats-psi-ten.vercel.app/?user=MrinmoyHaloi&theme=radical" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmoyHaloi&layout=compact&theme=radical" alt="Top Langs" />
 
 # Pins
 
